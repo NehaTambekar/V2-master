@@ -22,8 +22,6 @@ public class BaseClass extends WebDriverUtility
 	@BeforeSuite
 	public void bSuite()
 	{
-		//connect database
-		
 		
 	}
 	@BeforeClass
