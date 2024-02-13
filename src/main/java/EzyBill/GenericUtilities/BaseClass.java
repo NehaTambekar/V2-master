@@ -23,6 +23,8 @@ public class BaseClass extends WebDriverUtility
 	public void bSuite()
 	{
 		//connect database
+		
+		
 	}
 	@BeforeClass
 	public void bClass() throws Throwable
